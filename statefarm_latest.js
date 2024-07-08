@@ -1,1 +1,1 @@
-{"enable": false, "message": "test"}
+{"enable": true, "message": "Repo test"}
